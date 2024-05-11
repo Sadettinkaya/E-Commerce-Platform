@@ -1,0 +1,14 @@
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\bin\Debug\net6.0\eticaret.Data.deps.json
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\bin\Debug\net6.0\eticaret.Data.runtimeconfig.json
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\bin\Debug\net6.0\eticaret.Data.dll
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\bin\Debug\net6.0\ref\eticaret.Data.dll
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\bin\Debug\net6.0\eticaret.Data.pdb
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\obj\Debug\net6.0\eticaret.Data.csproj.AssemblyReference.cache
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\obj\Debug\net6.0\eticaret.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\obj\Debug\net6.0\eticaret.Data.AssemblyInfoInputs.cache
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\obj\Debug\net6.0\eticaret.Data.AssemblyInfo.cs
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\obj\Debug\net6.0\eticaret.Data.csproj.CoreCompileInputs.cache
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\obj\Debug\net6.0\eticaret.Data.dll
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\obj\Debug\net6.0\ref\eticaret.Data.dll
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\obj\Debug\net6.0\eticaret.Data.pdb
+C:\Users\Victus\OneDrive\Masaüstü\eticaret\eticaret.Data\obj\Debug\net6.0\eticaret.Data.genruntimeconfig.cache
