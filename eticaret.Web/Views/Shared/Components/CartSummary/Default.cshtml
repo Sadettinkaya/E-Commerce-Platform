@@ -1,0 +1,13 @@
+@model Cart
+
+<a href="/Cart" class="btn btn-sm btn-warning"> Sepete Git</a>
+
+@if(Model?.Items.Count()>0)
+{
+    <small class="text-white">
+
+        @Model?.Items.Sum(i=>i.Quantity) adet ürün.
+       [@Model?.CalculateTotal()]
+
+    </small>
+}

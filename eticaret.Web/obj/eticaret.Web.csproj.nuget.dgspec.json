@@ -1,0 +1,159 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Victus\\OneDrive\\Masaüstü\\e.ticaret\\eticaret.Web\\eticaret.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Victus\\OneDrive\\Masaüstü\\e.ticaret\\eticaret.Data\\eticaret.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victus\\OneDrive\\Masaüstü\\e.ticaret\\eticaret.Data\\eticaret.Data.csproj",
+        "projectName": "eticaret.Data",
+        "projectPath": "C:\\Users\\Victus\\OneDrive\\Masaüstü\\e.ticaret\\eticaret.Data\\eticaret.Data.csproj",
+        "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victus\\OneDrive\\Masaüstü\\e.ticaret\\eticaret.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Victus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.130\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Victus\\OneDrive\\Masaüstü\\e.ticaret\\eticaret.Web\\eticaret.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victus\\OneDrive\\Masaüstü\\e.ticaret\\eticaret.Web\\eticaret.Web.csproj",
+        "projectName": "eticaret.Web",
+        "projectPath": "C:\\Users\\Victus\\OneDrive\\Masaüstü\\e.ticaret\\eticaret.Web\\eticaret.Web.csproj",
+        "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victus\\OneDrive\\Masaüstü\\e.ticaret\\eticaret.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Victus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Victus\\OneDrive\\Masaüstü\\e.ticaret\\eticaret.Data\\eticaret.Data.csproj": {
+                "projectPath": "C:\\Users\\Victus\\OneDrive\\Masaüstü\\e.ticaret\\eticaret.Data\\eticaret.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Iyzipay": {
+              "target": "Package",
+              "version": "[2.1.61, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.130\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
