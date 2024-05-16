@@ -13,7 +13,7 @@ public  class HomeController : Controller
     }
 
     //localhost:5000/?page=1
-    
+    //githup
     public IActionResult Index(int page =1)
     {
         var products =_eticaretRepository
